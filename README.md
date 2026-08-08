@@ -2,6 +2,8 @@
 
 A **Forza Horizon 6** companion desktop app that tracks your car collection, automatically detects credit earnings via OCR, analyzes race telemetry, and helps you farm credits efficiently.
 
+If you want a visual of how the GUI looks like. Head to the screenshots folder.
+
 ## About
 
 > **TL;DR:** I got tired of manually tracking cars and guessing which credit farms were actually worth my timeso I coded a companion app to do the heavy lifting. *FH6 Tracker* automatically tracks your collection, logs your payouts live, and breaks down your driving telemetry so you can spend less time staring at spreadsheets and more time behind the wheel.
